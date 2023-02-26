@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": false,
+  "window.zoomLevel": 1,
+  "editor.minimap.enabled": false,
+  "editor.lineHeight": 30,
+  "workbench.colorTheme": "SynthWave '84",
+  "explorer.confirmDragAndDrop": false
+}
